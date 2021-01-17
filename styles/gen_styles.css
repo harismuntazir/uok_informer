@@ -1,0 +1,22 @@
+/* General Styles used Throught Out the project */
+
+#main{
+
+}
+
+/* links in the main body as menu */
+#links {
+    border: 2px solid blue;
+    box-shadow: 2px 2px 3px magenta;
+}
+.link {
+
+}
+
+/* uok get student details */
+.stdExamDtls {
+    border: black 2px solid;
+}
+.table_cols {
+    color: blue;
+}
